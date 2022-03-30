@@ -7,17 +7,17 @@ h1 {
     padding-bottom: 10px;    
     font-family: 'Abril Fatface', cursive;
 }
-.aboutLeft {
+#aboutLeft {
     margin-top: 50px;
     margin-bottom: 75px;
 
 }
-.aboutRight {
+#aboutRight {
     border: 1px solid black;
     max-height: 611px;
     max-width: 611px;
     padding: 55px;
-    margin-right: 110px;
+    /* margin-right: 110px; */
     margin-top: 50px;
-    margin-left: 29px;
+    /* margin-left: 29px; */
 }
