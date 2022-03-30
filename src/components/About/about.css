@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 25%;
+    margin-bottom: 25px;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;    
+    font-family: 'Abril Fatface', cursive;
+}
+.aboutLeft {
+    margin-top: 50px;
+    margin-bottom: 75px;
+
+}
+.aboutRight {
+    border: 1px solid black;
+    max-height: 611px;
+    max-width: 611px;
+    padding: 55px;
+    margin-right: 110px;
+    margin-top: 50px;
+    margin-left: 29px;
+}

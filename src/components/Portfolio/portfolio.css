@@ -1,0 +1,51 @@
+#projectLeft {
+    max-width: 95%;
+    max-height: 95%;
+    padding: 15px;
+}
+#projectRight {
+    max-width: 95%;
+    padding: 15px;
+}
+#bottomLeft {
+    max-width:95%;
+    padding: 15px;
+}
+#bottomMiddle {
+    max-width: 95%;
+    padding: 15px;
+}
+#bottomRight {
+    max-width: 95%;
+    padding: 15px;
+}
+#famyouly {
+    background-color: #F5F1EB;
+    margin: 0 auto;
+    display: block;
+    /* margin-top: 15%; */
+    text-decoration: none;
+    color:black;
+}
+#noteTaker {
+    background-color: #F5F1EB;
+    margin: 0 auto;
+    display: block;
+}
+#puppyLove {
+    background-color: #F5F1EB;
+    margin: 0 auto;
+    display: block;
+}
+#scheduler {
+    background-color: #F5F1EB;
+    margin: 0 auto;
+    display: flex;
+    vertical-align: middle;
+}
+#techblog {
+    background-color: #F5F1EB;
+    margin: 0 auto;
+    display: flex;
+    vertical-align: middle;
+}

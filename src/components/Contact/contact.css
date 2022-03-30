@@ -1,0 +1,31 @@
+.contactArea {
+    background-color: #EAE0D7;
+    padding: 40px;
+}
+#contact {
+    font-family: 'Abril Fatface', cursive;
+    color: #C4AFA1;
+    font-size: 40px;
+}
+
+.navBottom {
+    font-family: 'Montserrat', sans-serif;
+}
+.titleName {
+    font-family: 'Abril Fatface', cursive;
+    color: #C4AFA1;
+    font-size: 40px;
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+i {
+    margin-left: 60px;
+    margin-right: 5px;
+    /* vertical-align: middle; */
+}
+.navbarBottom {
+    margin-top: 10px;
+}
