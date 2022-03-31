@@ -2,3 +2,9 @@
     background-color: #EAE0D7;
     font-family: 'Montserrat', sans-serif;
 }
+
+.icon {
+    justify-content: space-around;
+    display: flex;
+    margin-right: 25px;
+}

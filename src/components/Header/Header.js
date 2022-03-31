@@ -1,4 +1,7 @@
 import './header.css';
+import GitHubIcon from '@mui/icons-material/GitHub';
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import EmailIcon from '@mui/icons-material/Email';
 
 const Header = () => {
     return (
@@ -15,6 +18,11 @@ const Header = () => {
       <li className="nav-item"><a href="#portfolio" className="nav-link link-dark px-2">PORTFOLIO</a></li>
       <li className="nav-item"><a href="https://docs.google.com/document/d/1VjdS6NX32xZ3l7yn5Nq0GmABUQ2LBowiXnQtBlZYCoU/edit?usp=sharing" className="nav-link link-dark px-2">RESUME</a></li>
     </ul>
+
+    <EmailIcon className="icon" href="mailto:hello@kirtleymichelle.com" target="_blank"/>
+    <GitHubIcon className="icon" href="www.github/com/kirtleyadams" target="_blank"/>
+    <LinkedInIcon className="icon" href="https://www.linkedin.com/in/kirtley-adams-9b0155223/" target="_blank"/>
+
   </div>
 </header>
         </section>
