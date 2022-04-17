@@ -1,9 +1,9 @@
 import About from './components/About/About';
 import Contact from './components/Contact/Contact';
-import Header from './components/Header/Header';
-import Portfolio from './components/Portfolio/Portfolio';
-import Nav from './components/Nav/Nav';
-import Skills from './components/Skills/Skills';
+import Header from './components/header/Header';
+import Portfolio from './components/portfolio/Portfolio';
+import Nav from './components/nav/Nav';
+import Skills from './components/skills/Skills';
 
 
 function App() {

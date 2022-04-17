@@ -9,7 +9,7 @@ const Contact = () => {
         <section id='contact'>
             <nav className="navbarBottom">
                 <div className="container-fluid contactArea" >
-                    <a className="navbar-brand" id="contact" href="">Contact</a>
+                    <a className="navbar-brand" id="contact" href="contact">Contact</a>
                     
                     <i className="fab fa-github"></i><a id="git" href="https://github.com/kirtleyadams" target="_blank">GitHub</a>
                     <GitHubIcon id="git"/>
